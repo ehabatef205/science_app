@@ -4,7 +4,9 @@ Application that helps graduates of science faculties to find some jobs, take ca
 
 ## Screenshots
 
-<img src="https://github.com/ehabatef205/science_app/blob/master/screenshots/Screenshot_1.jpg" width="128"/> <img src="https://github.com/ehabatef205/science_app/blob/master/screenshots/Screenshot_2.jpg" width="128"/>
+<img src="https://github.com/ehabatef205/science_app/blob/master/screenshots/Screenshot_1.jpg" width="128"/>
+
+<img src="https://github.com/ehabatef205/science_app/blob/master/screenshots/Screenshot_2.jpg" width="128"/>
 
 <img src="https://github.com/ehabatef205/science_app/blob/master/screenshots/Screenshot_3.jpg" width="128"/>
 
